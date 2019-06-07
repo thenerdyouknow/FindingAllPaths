@@ -1,0 +1,5 @@
+Guwahati-Dharmanagar-10
+Guwahati-Agartala-30
+Dharmanagar-Udaipur-20
+Dharmanagar-Agartala-15
+Agartala-Udaipur-8
