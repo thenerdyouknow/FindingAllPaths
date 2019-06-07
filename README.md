@@ -8,7 +8,6 @@ Guwahati-Agartala-30
 Dharmanagar-Udaipur-20
 Dharmanagar-Agartala-15
 Agartala-Udaipur-8
-
 ```
 where the last value is the distance between the two cities.
 
@@ -21,7 +20,6 @@ So if someone were to choose source city to be 'Guwahati' and destination city t
 Guwahati-Dharmanagar-Udaipur-30
 Guwahati-Dharmanagar-Agartala-Udaipur-33
 Guwahati-Agartala-Udaipur-38
-
 ```
 
 Some notes:
