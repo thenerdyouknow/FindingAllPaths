@@ -76,6 +76,7 @@ class DFS:
         '''
         sort_paths():
         Given a list of lists that contains all paths and total distances, sorts the list of lists by the total distances.
+        Returns nothing.
         '''
         paths.sort(key= lambda x: int(x[-1]))
         return paths
@@ -85,6 +86,7 @@ class DFS:
         find_all_paths():
         Driver function that calls other functions in the class to calculate all paths and sort them according to distance. Writes
         final output to OUTPUT_FILENAME appropriately.
+        Returns nothing.
         '''
         path = []
         all_paths = []

@@ -3,3 +3,7 @@ Guwahati-Agartala-30
 Dharmanagar-Udaipur-20
 Dharmanagar-Agartala-15
 Agartala-Udaipur-8
+Udaipur-Agra-9
+Agra-Mumbai-10
+Mumbai-Panipat-12
+Panipat-Punjab-19
